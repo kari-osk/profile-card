@@ -5,3 +5,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 ![](./screenshot.png)
+
+[GitHub pages](https://kari-osk.github.io/profile-card/ "Profile card")
+
+
